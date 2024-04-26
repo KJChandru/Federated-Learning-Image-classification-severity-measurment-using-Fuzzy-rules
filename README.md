@@ -1,0 +1,1 @@
+# Federated-Learning-Image-classification-severity-measurment-using-Fuzzy-rules
